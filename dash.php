@@ -90,7 +90,7 @@ if (@$_GET['q'] == 4)
         <li <?php
 if (@$_GET['q'] == 5)
     echo 'class="active"';
-?>><a href="dash.php?q=5">Remove Quiz</a></li>
+?>><a href="dash.php?q=5">Remove Quiz Totally</a></li>
       </ul>
           </div>
   </div>
